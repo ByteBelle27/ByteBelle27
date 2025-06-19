@@ -49,8 +49,7 @@
 - 📌 Apr 2025 — Started Python fundamentals  
 - 📌 May 2025 — Built mini-projects (To-Do App, Quiz Game)  
 - 📌 Jun 2025 — GitHub profile + text encoder project  
-- 🔜 Jul 2025 — SQL + Power BI dashboards  
-- 🎯 Aug 2025 — Build personal portfolio website
+-And it goes on
 
 ---
 
