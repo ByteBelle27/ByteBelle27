@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MS%20Fabric-2560E0?style=flat&logo=microsoft&logoColor=white" />
+  
 </p>
 
 ---
@@ -50,9 +50,9 @@
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/afrin-jahan-osru-b15818266/)
-- 📸 [Facebook](https://www.facebook.com/afrin_jahan_osru)
-- 📍 Ashuliya, Dhaka, Bangladesh
+- 💼 [LinkedIn](https://www.linkedin.com/in/osru-b15818266/)
+
+- 📍 Penang,Malaysia
 
 ---
 
