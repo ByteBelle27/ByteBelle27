@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://github.com/ByteBelle27/ByteBelle27/blob/main/osru_dp.png" width="180" alt="Osru Picture"/>
+  <img src="[https://github.com/ByteBelle27/ByteBelle27/blob/main/osru_dp.png](https://github.com/ByteBelle27/ByteBelle27/blob/main/ChatGPT%20Image%20Jun%2020%2C%202025%2C%2003_20_12%20AM.png)" width="180" alt="Osru Picture"/>
   <br/>
   <sub><i>Problem Solver • Visual Thinker • Always Learning</i></sub>
 </p>
