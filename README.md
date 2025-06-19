@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Osru 👩‍💻</h1>
-<p align="center">
-  🎓 CSE Undergrad | 📊 Aspiring Data Analyst | 🌏 Semester Exchange @ USM, Malaysia  
-</p>
 
----
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Osru!;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+Learner;Coding+is+my+superpower+%F0%9F%92%AA" alt="Typing SVG" />
+</h3>
+
+
 
 ## 🚀 About Me
 
