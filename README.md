@@ -1,46 +1,60 @@
 <h1 align="center">Hi, I'm Osru 👩‍💻</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Osru!;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+Learner;Coding+is+my+superpower+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+Learner;Coding+is+my+superpower+%F0%9F%92%AA" alt="Typing Animation" />
 </h3>
 
-
-
-## 🚀 About Me
-
-🎓 I'm a Computer Science student passionate about using data to solve real-world problems.  
-💻 Currently learning Python + SQL to build strong foundations in data analysis.  
-📊 Skilled in Power BI & Excel for building insightful dashboards.  
-🌍 Recently completed a semester exchange at **Universiti Sains Malaysia**.  
-📌 Based in Dhaka, Bangladesh — open to global opportunities!
-
----
-
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
-  
+<p align="center">
+  <img src="https://github.com/ByteBelle27/ByteBelle27/blob/main/osru_dp.png" width="180" alt="Osru Picture"/>
+  <br/>
+  <sub><i>Problem Solver • Visual Thinker • Always Learning</i></sub>
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 🌸 About Me
+
+🎓 CSE Undergrad | 🎯 Passionate about Data & Analytics  
+🇲🇾 Semester Exchange @ Universiti Sains Malaysia (USM)  
+🛠 Learning Python • SQL • Power BI • Excel  
+📍 Currently in Penang, Malaysia
+
+---
+
+## 🚀 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+---
+
+## 🔍 Featured Projects
 
 | Project | Description |
 |--------|-------------|
 | 🔐 [Secret Code Language](https://github.com/ByteBelle27/Secret-Code-Language-in-Python) | Encode/decode text using a rule-based cipher |
-| 🎮 [KBC Quiz Game](https://github.com/ByteBelle27/KBC_Python_Quiz) | Mini quiz game inspired by Kaun Banega Crorepati |
-| 🧠 Text Analyzer *(coming soon)* | Analyze word/char/unique word count |
-| 📊 Power BI Dashboard *(coming soon)* | Uploading `.pbix` projects with visualizations |
-| 💾 SQL Challenge Repo *(coming soon)* | Practice SQL queries & schema design |
+| 🎮 [KBC Quiz Game](https://github.com/ByteBelle27/KBC_Python_Quiz) | CLI quiz game based on Kaun Banega Crorepati |
+| 🧠 Text Analyzer *(coming soon)* | Word, char, and unique word counter |
+| 📊 Power BI Dashboards *(coming soon)* | Interactive visuals and KPIs |
+| 🧪 SQL Practice Repo *(coming soon)* | Practice queries, joins, and functions |
 
 ---
 
-## 📈 My GitHub Stats
+## 🧭 Learning Journey
+
+- 📌 Apr 2025 — Started Python fundamentals  
+- 📌 May 2025 — Built mini-projects (To-Do App, Quiz Game)  
+- 📌 Jun 2025 — GitHub profile + text encoder project  
+- 🔜 Jul 2025 — SQL + Power BI dashboards  
+- 🎯 Aug 2025 — Build personal portfolio website
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ByteBelle27&show_icons=true&theme=tokyonight" height="150">
@@ -57,9 +71,9 @@
 <p align="center">
   <img src="https://github.com/ByteBelle27/ByteBelle27/blob/main/osru_linkedin_qr.png?raw=true" alt="LinkedIn QR Code" width="200"/>
   <br/>
-  <sub>Scan to connect on LinkedIn</sub>
+  <sub>📱 Scan to connect on LinkedIn</sub>
 </p>
 
 ---
 
-*“The beautiful thing about learning is that nobody can take it away from you.” — B.B. King**
+> 💡 *“The beautiful thing about learning is that nobody can take it away from you.” – B.B. King*
