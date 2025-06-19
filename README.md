@@ -51,8 +51,13 @@
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/osru-b15818266/)
+- 📍 Penang, Malaysia  
 
-- 📍 Penang,Malaysia
+<p align="center">
+  <img src="https://github.com/ByteBelle27/ByteBelle27/blob/main/osru_linkedin_qr.png?raw=true" alt="LinkedIn QR Code" width="200"/>
+  <br/>
+  <sub>Scan to connect on LinkedIn</sub>
+</p>
 
 ---
 
